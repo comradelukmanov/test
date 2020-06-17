@@ -1,4 +1,3 @@
-a = input()
-b = input()
+var = input()
 
-print(a+b)
+print(var.split())
