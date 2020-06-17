@@ -1,3 +1,1 @@
-var = input()
-
-print(var.split())
+print(input().split(" "))
